@@ -25,29 +25,19 @@ Dette danner grunnlaget for ønsket om å undersøke denne problemstillingen vid
 
 Deltakergruppenbestod av 41 kvinner og herrer som i aldersspennet 18 -- 40 år.
 
- 
+| **Eksklusjonskriterier før intervensjon**                     | **Eksklusjonskriterier etter intervensjon**            |
+|---------------------------------------------------------------|--------------------------------------------------------|
+| Intoleranse mot lokalbedøvelse                                | Ikke gjennomført 85% av planlagt treningsøkter (*n*=7) |
+| \> En styrkeøkt i uken de siste 12 månedene                   | Smerter i underekstremitet under trening (*n*=5)       |
+| Nedsatt muskelstyrke grunnet skade                            | Skade som ikke er relatert til studiet (*n*=1)         |
+| Bruk av forskrevet medisin som kan påvirke treningsadapsjonen | Klarte ikke gjennomføre studieprotokoll (*n*=1)        |
+| Røyker                                                        |                                                        |
 
-| **Eksklusjonskriterier                                
- før intervensjon**                                     | **Eksklusjonskriterier                            
-                                                         etter intervensjon**                               |
-|-------------------------------------------------------|---------------------------------------------------|
-| Intoleranse                                           
- mot lokalbedøvelse                                     | Ikke                                              
-                                                         gjennomført 85% av planlagt treningsøkter (*n*=7)  |
-| \< En                                                 
- styrkeøkt i uken de siste 12 månedene                  | Smerter                                           
-                                                         i underekstremitet under trening (*n*=5)           |
-| Nedsatt                                               
- muskelstyrke grunnet skade                             | Skade                                             
-                                                         som ikke er relatert til studiet (*n*=1)           |
-| Bruk av                                               
- forskrevet medisin som kan påvirke treningsadapsjonen  | Klarte                                            
-                                                         ikke gjennomføre studieprotokoll (*n*=1)           |
-| Røyker                                                |                                                   |
+Inkludertedeltakere etter eksklusjonen var kvinner *n*=18 og menn *n*=16.
 
-Inkluderte deltakere etter eksklusjonen var kvinner *n*=18 og menn *n*=16.
+[***Intervensjon***]{.ul}
 
-[***Intervensjon***]{.ul} Intervensjonen bestod av 12 ukers full-kropps styrketrening. Beinøvelsene ble gjennomført på et og et bein for å tillate interne styrkeforskjeller. Begge utøverne gjennomførte begge protokollene (et sett, og tre sett) og det ble tilfeldig valgt hvilket ben som skulle gjennomføre hvilken protokoll. Muskelstyrken ble vurdert ved oppstart, under (uke 3,5 og 9) og etter treningsintervensjon. Kroppssammensetning ble målt før og etter treningsintervensjonen. Muskelbiopsi ble samlet 4 ganger under intervensjonen. Ved start av intervensjon, før og en time etter treningsøkt fem, og etter intervensjon.
+Intervensjonen bestod av 12 ukers full-kropps styrketrening. Beinøvelsene ble gjennomført på et og et bein for å tillate interne styrkeforskjeller. Begge utøverne gjennomførte begge protokollene (et sett, og tre sett) og det ble tilfeldig valgt hvilket ben som skulle gjennomføre hvilken protokoll. Muskelstyrken ble vurdert ved oppstart, under (uke 3,5 og 9) og etter treningsintervensjon. Kroppssammensetning ble målt før og etter treningsintervensjonen. Muskelbiopsi ble samlet 4 ganger under intervensjonen. Ved start av intervensjon, før og en time etter treningsøkt fem, og etter intervensjon.
 
 [***Treningsprotokoll***]{.ul}
 
